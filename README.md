@@ -4,6 +4,7 @@ Custom cspell dictionaries used at Fine Designs.
 ## Usage
 Add the desired dictionary definition files to a cspell config:
 
+```json
 "dictionaryDefinitions": [
     {
         "name": "fd_allowed",
@@ -16,3 +17,4 @@ Add the desired dictionary definition files to a cspell config:
         "description": "Custom Fine Designs Dictionary"
     }
 ]
+```
